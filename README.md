@@ -2,7 +2,7 @@
 ### School collaborator - ATA staff and passionate developer
 ### Now teacher of computer science at Vicenza
 
-<p align="right">
+<p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTB6NWZ0ZmU5NmtrM21ybThvNWhsYXVsOTEwdWZ2d25mNXZ3OWVmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="250">
 </p>
 
