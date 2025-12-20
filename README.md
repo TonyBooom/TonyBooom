@@ -23,7 +23,3 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 
 </p>
 
-### GitHub Stats
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TonyBooom&" alt="Streak Stats" width="300">
-</p>
