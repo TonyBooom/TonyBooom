@@ -1,6 +1,6 @@
 # Hi 👋, I'm Antonio Botta
 
-### Computer Science teacher at IIS Umberto Masotto
+### Computer Science teacher at a secondary school
 ### Completing a Master's in Computer Science & Applied AI Engineering (LM-32) at Università San Raffaele Roma
 
 <p align="center">
